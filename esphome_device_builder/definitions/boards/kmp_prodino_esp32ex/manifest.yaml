@@ -175,5 +175,5 @@ source:
   type: esphome-devices
   remote_id: KMP-PRODINo-ESP32EX
   upstream_url: https://github.com/esphome/devices.esphome.io/blob/main/src/docs/devices/KMP-PRODINo-ESP32EX/index.md
-  upstream_revision: c5d3c291760d8e2d9909f54b1b491aacfc59740e
+  upstream_revision: acc4ef455d5c5405d0d4168576fa03078f4b28c4
   content_hash: cd682661c9a8a4d33b0b5ed58b6bb8699ec5b44152c25ecaac2dce259f0dd7ca
